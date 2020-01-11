@@ -1,3 +1,3 @@
 puts "hello_world"
 
-hello_world
+filter_parameter_logging
